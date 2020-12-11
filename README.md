@@ -14,3 +14,5 @@ A showcase of my projects and my abilities.
 * Compared our method with state-of-the-art instance segmentation network and evaluated our method using FPS and mAP over different Intersection over Union (IoU).
 
 <img src="/image/in000145_result.jpg" width="400"/><img src="/image/office_3_result.png" width="400"/>
+
+# [Image Orientation Detection with Detectron2]()
