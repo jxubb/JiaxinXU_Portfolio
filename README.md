@@ -6,7 +6,7 @@ A showcase of my projects and my abilities.
 * Preprocessed different types of raw data, including images, json files and text files, using cv2, json, LabelImg.
 * Designed and conducted experiments to compare the performance of the above frameworks with f-score, mean Average Precision (mAP) and Frames Per Second (FPS).
 
-<img src="/image/Capture.PNG" width="700" height="650"/>
+<img src="https://github.com/jxubb/JiaxinXU_Portfolio/blob/main/image/Capture.PNG" width="700" height="650"/>
 
 # [Outline Fusion for Human Segmentation from a Static Camera](https://github.com/jxubb/UAlberta-Multimedia-Course-Program--Human-Segmentation-with-YOLACT)
 * Generated dataset with static camera and created COCO-style object detection annotation files for the dataset. 
