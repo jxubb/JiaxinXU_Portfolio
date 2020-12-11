@@ -13,7 +13,6 @@ A showcase of my projects and my abilities.
 * Combined object detection network and background subtraction method to extract human outline and achieved real-time human segmentation.
 * Compared our method with state-of-the-art instance segmentation network and evaluated our method using FPS and mAP over different Intersection over Union (IoU).
 
-<p float="left">
-  <img src="/image/in000145_result.jpg" width="450" height="400"/>
-  <img src="/image/office_3_result.png" width="450" height="400"/>
-</p>
+<center class="half">
+    <img src="/image/in000145_result.jpg" width="300"/><img src="/image/office_3_result.png" width="300"/>
+</center>
