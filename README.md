@@ -4,7 +4,7 @@ A showcase of my projects and my abilities.
 # [Automatic Human Orientation Recognition with Detectron2](https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2)
 * Reformed Detectron2 to detect human orientation in the context of determining the correct orientation (from 0, 90, 180, and 270 degrees) of a human image/photo.
 * Built a web application to deploy the human orientation detection model with FastAPI.
-* Made the FastAPI application to a Docker Image and ran it as a container.
+* Made the FastAPI application to a docker image and ran it as a docker container.
 
 # [Pothole Detection with Deep Learning Based Frameworks](https://github.com/jxubb/UAlberta-Multimedia-Master-Program--Pothole-Detection-with-Dash-Cam)  
 * Coded multiple object detection frameworks with TensorFlow, containing You Only Look Once (YOLO), Fast R-CNN, Mask R-CNN and Single Shot Detector (SSD).
