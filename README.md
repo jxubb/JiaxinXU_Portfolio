@@ -19,4 +19,5 @@ A showcase of my projects and my abilities.
 * Compared our method with state-of-the-art instance segmentation network and evaluated our method using FPS and mAP over different Intersection over Union (IoU).
 
 
-![](/image/in000145_result.jpg)  |  ![](/image/office_3_result.png)
+![](/image/in000145_result.jpg)  
+![](/image/office_3_result.png)
