@@ -1,7 +1,7 @@
 # JiaxinXU_Portfolio
 A showcase of my projects and my abilities.
 
-# [Automatic Human Orientation Recognition with Detectron2]()
+# [Automatic Human Orientation Recognition with Detectron2](https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2)
 * Reformed Detectron2 to detect human orientation in the context of determining the correct orientation (from 0, 90, 180, and 270 degrees) of a human image/photo.
 * Built a web application to deploy the human orientation detection model with FastAPI.
 * Made the FastAPI application to a Docker Image and ran it as a container.
