@@ -15,5 +15,5 @@ A showcase of my projects and my abilities.
 
 <p float="left">
   <img src="/image/in000145_result.jpg" width="450" height="400"/>
-  <img src="/image/office_3_result.png" width="440" height="390"/>
+  <img src="/image/office_3_result.png" width="450" height="400"/>
 </p>
