@@ -6,6 +6,8 @@ A showcase of my projects and my abilities.
 * Built a web application to deploy the human orientation detection model with FastAPI.
 * Made the FastAPI application to a docker image and ran it as a docker container.
 
+![](/image/demo.gif)
+
 # [Pothole Detection with Deep Learning Based Frameworks](https://github.com/jxubb/UAlberta-Multimedia-Master-Program--Pothole-Detection-with-Dash-Cam)  
 * Coded multiple object detection frameworks with TensorFlow, containing You Only Look Once (YOLO), Fast R-CNN, Mask R-CNN and Single Shot Detector (SSD).
 * Preprocessed different types of raw data, including images, json files and text files, using cv2, json, LabelImg.
